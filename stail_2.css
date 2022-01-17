@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+
+.nav{
+    width: 600px;
+    border: 1px solid black;
+    margin: auto;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+a{
+text-decoration: none;
+text-transform: uppercase;
+color: blanchedalmond;
+font-weight: bolder;
+font-size: 30px;
+}
+
+body{
+background: url(../dark-background.jpg);
+}

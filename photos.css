@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.bloc{
+    width:1300px ;
+    border: 2px solid  chartreuse;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.bloc-iner{
+    width: 400px;
+min-height: 300px;
+border: 2px solid chartreuse;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.first{
+    background: url(../dark-background.jpg);
+}
+.second{
+    background: url(../blur-background_3840x2400_e01ng.jpg);
+}
+.three{
+background: url(../ezgif.com-crop_1583843611.gif);
+
+}
+.three:hover{
+    transform: scale(2);
+}
+.four{
+background: url(../fa9e27a7534060df383ab54354fcead3.gif);
+
+}
+body{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+.five{
+    background: url(../5eeea355389655.59822ff824b72.gif);
+}
+.six{
+background: url(../animations.gif.crdownload);
+}
+.seven{
+background: url();
+}
+.eight{
+background: url();
+}
+.nine{
+background: url();
+}
+
+
+
